@@ -1,5 +1,5 @@
 {
-  "name": "OOP-logo-maker",
+  "name": "OOP-Logo-maker",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,6 +21,8 @@
   "homepage": "https://github.com/xJohnnyy/OOP-Logo-Maker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.4.3"
+    "jest": "^29.4.3",
+    "json": "^11.0.0",
+    "x-class": "^1.0.21"
   }
-  }
+}
