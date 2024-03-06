@@ -14,7 +14,8 @@ In this week's challenge we created an application that takes user input into a 
 
 
 ## Walkthrough Video:
-[Click Here to Watch] need to insert vid
+[Click Here to Watch] (https://www.youtube.com/watch?v=sE6E_EDV1UA)
+
 
 ## Screenshots:
 ### Figure 1. Command line application
