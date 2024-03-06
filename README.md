@@ -22,7 +22,7 @@ In this week's challenge we created an application that takes user input into a 
 ### Figure 2. Jest Testing "npm test"
 ![](./images/NPM%20test.png)
 ### Figure 3. Generated "logo.svg" file
-![](./images/generated-logo.svg.png)
+![](./images/logo.png)
 
 ## Installation Process
 1. Clone the repository: [Johnny's OOP Logo Maker](https://github.com/xJohnnyy/OOP-Logo-Maker)
