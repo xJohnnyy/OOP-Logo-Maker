@@ -16,7 +16,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 
 ## Walkthrough Video:
-[Click Here to Watch]
+[Click Here to Watch] need to insert vid
 
 ## Screenshots:
 ### Figure 1. Command line application
