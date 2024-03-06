@@ -1,0 +1,26 @@
+{
+  "name": "OOP-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xJohnnyy/OOP-Logo-Maker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xJohnnyy/OOP-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/xJohnnyy/OOP-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.4.3"
+  }
+  }
