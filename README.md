@@ -27,7 +27,7 @@ The application enables users to enter inputs into a inquirer prompt in order to
 ![](./images/generated-logo.svg.png)
 
 ## Installation Process
-1. Clone the repository: [Johnny's OOP Logo Maker](My repo Link)
+1. Clone the repository: [Johnny's OOP Logo Maker](https://github.com/xJohnnyy/OOP-Logo-Maker)
 2. Install the following: 
 - Node.JS (https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest (https://www.npmjs.com/package/jest)
