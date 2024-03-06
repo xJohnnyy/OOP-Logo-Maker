@@ -20,9 +20,9 @@ The application enables users to enter inputs into a inquirer prompt in order to
 
 ## Screenshots:
 ### Figure 1. Command line application
-![](./images/svg-logo-maker.png) 
+![](./images/Command%20Line.png) 
 ### Figure 2. Jest Testing "npm test"
-![](./images/jest-test.png)
+![](./images/NPM%20test.png)
 ### Figure 3. Generated "logo.svg" file
 ![](./images/generated-logo.svg.png)
 
